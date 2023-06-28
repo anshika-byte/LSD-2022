@@ -1,2 +1,1 @@
-# hello-world
-hello-world
+:- The objective of this dataset is to forcast how much power we are getting on this particular meter from different phases on particular time and then finding out the  difference of active power to that of apparent power or we can say how much  power is actually used  at a particular time of the day .
